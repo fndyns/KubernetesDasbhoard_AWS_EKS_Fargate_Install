@@ -1,0 +1,2 @@
+# KubernetesDasbhoard_AWS_EKS_Fargate_Install
+KubernetesDasbhoard_AWS_EKS_Fargate_Install
